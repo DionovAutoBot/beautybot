@@ -4,6 +4,20 @@ __pycache__/
 *.pyo
 .venv/
 venv/
-*.log
-*.db
+
+# Environment
 .env
+*.env
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
